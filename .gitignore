@@ -75,8 +75,38 @@ docs/_build/
 .pybuilder/
 target/
 
-# Jupyter Notebook
-.ipynb_checkpoints
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+*.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Data artifacts
+*.csv
+*.tsv
+!data/True_stories.csv
+!data/Fake_stories.csv
+
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Colab artifacts
+*.bak
+*.swp
+
+# VSCode settings (optional)
+.vscode/
 
 # IPython
 profile_default/
