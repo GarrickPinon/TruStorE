@@ -129,13 +129,9 @@ Here’s a polished markdown block you can drop into your README or notebook to 
 
 > This isn’t just a model—it’s the **TruStorE™ Certification Engine**, powered by **Word Pair Logic™**, **Sentiment Drift Index™**, and **Truth Over Tone Technology™**.
 
----
-
-```markdown
-✅ Roadmap Ready — Powered by TruStorE™ Certification Engine
-```
 
 ---
+
 
 ### 🧾 License
 
