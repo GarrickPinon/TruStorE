@@ -181,3 +181,20 @@ MIT © 2025 Garrick Piñón. TruStorE™, Word Pair Logic™, Sentiment Drift In
 Commercial use requires attribution and explicit permission.  
 
 ---
+
+## 🏷️ Loyalty Badges – Faithful to the Footer
+
+> If you’re reading this, you’re not just curious—you’re committed. These badges are for you. Let's be friends.
+
+![📜 README Loyalist](https://img.shields.io/badge/README-Loyalist-lightblue)
+![🌀 Doomscroll Certified](https://img.shields.io/badge/Doomscroll-Certified-darkred)
+![🧠 Brain-Fried but Brilliant](https://img.shields.io/badge/Brain--Fried-But%20Brilliant-magenta)
+![🍪 Cookie for the Curious](https://img.shields.io/badge/Cookie-For%20the%20Curious-brown)
+![🧭 Markdown Pilgrim](https://img.shields.io/badge/Markdown-Pilgrim-silver)
+![🫀 Faithful to the End](https://img.shields.io/badge/Faithful-To%20the%20End-darkgreen)
+![Quantsultant™](https://img.shields.io/badge/Quantsultant™-Certified-purple)
+![Sugar-Free ML](https://img.shields.io/badge/Sugar--Free-ML%20Pipeline-pink)
+![🧪 Badge of Experimental Brilliance](https://img.shields.io/badge/Badge-Experimental%20Brilliance-limegreen)
+![🚨 BS Button Activated](https://img.shields.io/badge/BS--Button-Activated-critical)
+
+---
