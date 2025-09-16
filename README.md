@@ -195,6 +195,8 @@ Commercial use requires attribution and explicit permission.
 ![Quantsultant™](https://img.shields.io/badge/Quantsultant™-Certified-purple)
 ![Sugar-Free ML](https://img.shields.io/badge/Sugar--Free-ML%20Pipeline-pink)
 ![🧪 Badge of Experimental Brilliance](https://img.shields.io/badge/Badge-Experimental%20Brilliance-limegreen)
-![🚨 BS Button Activated](https://img.shields.io/badge/BS--Button-Activated-critical)
+![🛡️ Built with Integrity](https://img.shields.io/badge/Built-With%20Integrity-black)
+![🧬 Signal Over Fluff](https://img.shields.io/badge/Signal-Over%20Fluff-blue)
+![🚨 BS Button Created](https://img.shields.io/badge/BS--Button-Certified-red)
 
 ---
