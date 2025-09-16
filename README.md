@@ -177,8 +177,7 @@ Here’s a polished markdown block you can drop into your README or notebook to 
 
 ### 🧾 License
 
-MIT © 2025 Garrick Piñón  
-TruStorE™ is trademarked. Attribution required for commercial use.  
-This classifier is not just a model—it’s a legacy artifact.
+MIT © 2025 Garrick Piñón. TruStorE™, Word Pair Logic™, Sentiment Drift Index™, and Truth Over Tone Technology™ are trademarked methodologies.  
+Commercial use requires attribution and explicit permission.  
 
 ---
