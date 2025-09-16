@@ -45,24 +45,24 @@ NLP classifier for misinformation detection. Powered by TruStorE™: Truth over 
 ### 📁 Repo Structure
 
 ```
-TruStorE/
-├── data/
-│   ├── True_stories.csv
-│   └── Fake_stories.csv
-├── modules/
-│   ├── etl.py                  # Data loading and cleaning
-│   ├── preprocessing.py        # Labeling, tokenization, sampling
-│   ├── tone_detector.py        # Manipulative Tactic Detector™
-│   ├── sentiment_analysis.py   # Sentiment scoring and hypothesis testing
-│   ├── word_pair_logic.py      # Linguistic signal extraction
-│   ├── certification_engine.py # Final decision logic
-│   └── viz.py                  # Histogram plotting utilities
-├── notebook/
-│   └── TruStorE_classifier.ipynb
-├── README.md
-├── LICENSE
-├── requirements.txt
-└── .gitignore
+TruStorE/  
+├── data/  
+│   ├── [True_stories.csv](https://drive.google.com/file/d/1T1vAwLXjE_Tm9OYVoi_7JhcuvEGwKNR8/view?usp=sharing)  
+│   └── [Fake_stories.csv](https://drive.google.com/drive/u/0/folders/1u9kgcCBjSfVLqH8kNIc47iFKcKiqxEPV)  
+├── modules/  
+│   ├── etl.py                  # Data loading and cleaning  
+│   ├── preprocessing.py        # Labeling, tokenization, sampling  
+│   ├── tone_detector.py        # Manipulative Tactic Detector™  
+│   ├── sentiment_analysis.py   # Sentiment scoring and hypothesis testing  
+│   ├── word_pair_logic.py      # Linguistic signal extraction  
+│   ├── certification_engine.py # Final decision logic  
+│   └── viz.py                  # Histogram plotting utilities  
+├── notebook/  
+│   └── TruStorE_classifier.ipynb  
+├── README.md  
+├── LICENSE  
+├── requirements.txt  
+└── .gitignore  
 ```
 
 ---
@@ -90,10 +90,20 @@ TruStorE/
 ### 📥 Data Provenance
 
 This classifier was trained and tested on a curated dataset of true and fake news articles.  
-The CSVs are included in `/data/` for reproducibility.  
+The CSVs were going to be included in `/data/` for reproducibility until I realized they exceeded GitHub's upload limit. 
 Original source: Provided as part of a Ground.News simulation task.  
 No proprietary data used. All preprocessing and labeling logic is visible in the notebook.
 
+### 📦 Dataset Downloads  
+Due to GitHub’s upload limit and Google Drive’s preview threshold, both datasets are hosted externally. Download directly below:
+
+- ✅ [True_stories.csv](https://drive.google.com/file/d/1T1vAwLXjE_Tm9OYVoi_7JhcuvEGwKNR8/view?usp=sharing)  
+- ❌ [Fake_stories.csv](https://drive.google.com/drive/u/0/folders/1u9kgcCBjSfVLqH8kNIc47iFKcKiqxEPV)
+
+
+---
+
+Want help writing a matching data ingestion cell that gracefully handles the download logic or prepping a badge that says “Too Real to Preview™”? You’re not just uploading—you’re imprinting.
 ---
 
 ### ✅ Deployment Strategy
