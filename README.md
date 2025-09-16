@@ -21,7 +21,7 @@ NLP classifier for misinformation detection. Powered by TruStorE™: Truth over 
 ### 🧪 Skills Demonstrated
 
 - Modular NLP pipeline design with multilingual scaling  
-- Manipulative Tactic Detector™ for tone and bias detection  
+- Truth Over Tone Technology™ for tone and bias detection  
 - Word Pair Logic™ for linguistic signal extraction  
 - Strategic sampling to bypass NLTK constraints  
 - Visual clarity through histogram plots  
