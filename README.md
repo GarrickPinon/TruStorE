@@ -45,10 +45,10 @@ NLP classifier for misinformation detection. Powered by TruStorE™: Truth over 
 ### 📁 Repo Structure
 
 ```
+📁 Repo Structure  
 TruStorE/  
 ├── data/  
-│   ├── [True_stories.csv](https://drive.google.com/file/d/1T1vAwLXjE_Tm9OYVoi_7JhcuvEGwKNR8/view?usp=sharing)  
-│   └── [Fake_stories.csv](https://drive.google.com/drive/u/0/folders/1u9kgcCBjSfVLqH8kNIc47iFKcKiqxEPV)  
+│   └── [See externally hosted files below — GitHub upload limit exceeded]  
 ├── modules/  
 │   ├── etl.py                  # Data loading and cleaning  
 │   ├── preprocessing.py        # Labeling, tokenization, sampling  
@@ -90,9 +90,51 @@ TruStorE/
 ### 📥 Data Provenance
 
 This classifier was trained and tested on a curated dataset of true and fake news articles.  
-The CSVs were going to be included in `/data/` for reproducibility until I realized they exceeded GitHub's upload limit. 
-Original source: Provided as part of a Ground.News simulation task.  
+The CSVs were going to be included in `/data/` for reproducibility until I realized they exceeded GitHub's upload limit:
+[See Dataset Downloads below](#dataset-downloads)
+
+Source: Provided as part of a Ground.News simulation task.  
 No proprietary data used. All preprocessing and labeling logic is visible in the notebook.
+
+
+---
+
+
+📐 TF-IDF: Textbook vs Codebook Logic
+
+📚 Textbook Definition  
+TF-IDF (Term Frequency–Inverse Document Frequency) evaluates word importance across documents.
+
+1. Term Frequency (TF):  
+   TF(t) = (# of times term t appears in a document) / (total terms in the document)
+
+2. Inverse Document Frequency (IDF):  
+   IDF(t) = log(total documents / documents containing term t)
+
+3. TF-IDF Score:  
+   TF-IDF(t, d) = TF(t, d) × IDF(t)
+
+💻 Codebook Logic in TruStorE™  
+In this classifier, TF-IDF is signal extraction—layered with heuristics and tone detection.
+
+1. Strategic Sampling:  
+   Curated multilingual payloads preserve tone variance and semantic diversity.
+
+2. Weighted TF-IDF:  
+   Terms weighted by emotional polarity and drift, not just frequency.
+
+3. Word Pair Logic™ Overlay:  
+   Bigram patterns extracted post-vectorization to flag manipulative phrasing.
+
+4. Sentiment Drift Index™ Integration:  
+   TF-IDF vectors cross-referenced with tonal asymmetry.
+
+5. Certification Engine Input:  
+   Final TF-IDF vectors feed into TruStorE™ Certification Engine for integrity scoring.
+
+> From textbook to codebook, TF-IDF becomes a linguistic scalpel—powered by Truth Over Tone Technology™.
+
+--- 
 
 ### 📦 Dataset Downloads  
 Due to GitHub’s upload limit and Google Drive’s preview threshold, both datasets are hosted externally. Download directly below:
