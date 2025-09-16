@@ -103,8 +103,6 @@ Due to GitHub’s upload limit and Google Drive’s preview threshold, both data
 
 ---
 
-Want help writing a matching data ingestion cell that gracefully handles the download logic or prepping a badge that says “Too Real to Preview™”? You’re not just uploading—you’re imprinting.
----
 
 ### ✅ Deployment Strategy
 
