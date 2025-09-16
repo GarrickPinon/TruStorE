@@ -45,24 +45,22 @@ NLP classifier for misinformation detection. Powered by TruStorE™: Truth over 
 ### 📁 Repo Structure
 
 ```
-📁 Repo Structure  
-TruStorE/  
-├── data/  
-│   └── [See externally hosted files below — GitHub upload limit exceeded]  
-├── modules/  
-│   ├── etl.py                  # Data loading and cleaning  
-│   ├── preprocessing.py        # Labeling, tokenization, sampling  
-│   ├── tone_detector.py        # Manipulative Tactic Detector™  
-│   ├── sentiment_analysis.py   # Sentiment scoring and hypothesis testing  
-│   ├── word_pair_logic.py      # Linguistic signal extraction  
-│   ├── certification_engine.py # Final decision logic  
-│   └── viz.py                  # Histogram plotting utilities  
-├── notebook/  
-│   └── TruStorE_classifier.ipynb  
-├── README.md  
-├── LICENSE  
-├── requirements.txt  
-└── .gitignore  
+TruStorE/
+├── modules/
+│   ├── etl.py                  # Data loading and cleaning
+│   ├── preprocessing.py        # Labeling, tokenization, sampling
+│   ├── tone_detector.py        # Manipulative Tactic Detector™
+│   ├── sentiment_analysis.py   # Sentiment scoring and hypothesis testing
+│   ├── word_pair_logic.py      # Linguistic signal extraction
+│   ├── certification_engine.py # Final decision logic
+│   └── viz.py                  # Histogram plotting utilities
+├── notebook/
+│   └── TruStorE_classifier.ipynb
+├── README.md
+├── LICENSE
+├── requirements.txt
+└── .gitignore
+ 
 ```
 
 ---
