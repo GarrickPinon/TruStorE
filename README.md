@@ -1,6 +1,6 @@
 # 📰 TruStorE™: Sifting Fact From Fiction
 
-NLP classifier for misinformation detection. Powered by TruStorE™: Truth over tone technology, TruStorE™ blends linguistic heuristics, sentiment drift analysis, and Word Pair Logic™ to flag manipulative tone in news articles, a tell-tale sign of fake news as emotions are elicited to replace facts.  Built for reproducibility, modular deployment, and impact.
+NLP classifier for misinformation detection. Powered by Truth Over Tone Technology™, TruStorE™ blends linguistic heuristics, sentiment drift analysis, and Word Pair Logic™ to flag manipulative tone in news articles, a tell-tale sign of fake news as emotions are elicited to replace facts.  Built for reproducibility, modular deployment, and impact.
 
 ---
 
