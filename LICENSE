@@ -1,9 +1,9 @@
 MIT License
 
-Copyright (c) 2025 Garrick Pinon, MBA
+Copyright © 2025 Garrick Piñón
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
+of this software and associated documentation files (the “Software”), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
@@ -12,10 +12,41 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## 🏛️ TruStorE™ IP Stewardship Addendum
+
+The following components are trademarked and protected under Garrick Piñón’s intellectual property rights:
+
+- TruStorE™ Certification Engine  
+- Word Pair Logic™  
+- Sentiment Drift Index™  
+- Truth Over Tone Technology™
+
+These branded methodologies are not covered by the MIT license for commercial use. Any use of these components in derivative works, commercial deployments, or public-facing products **requires explicit attribution** and **written permission** from the author.
+
+### ✅ Permitted Use
+- Academic research with citation  
+- Personal experimentation and non-commercial forks  
+- Internal enterprise testing with attribution
+
+### ❌ Restricted Use
+- Commercial deployment without permission  
+- Rebranding or repackaging of trademarked components  
+- Omission of attribution in public-facing tools
+
+For licensing inquiries, partnership proposals, or commercial use requests, contact:  
+**📧 Garrick Piñón — tru.stor.engine@gmail.com**
+
+---
+
+This isn’t just a license—it’s a loyalty contract.  
+Respect the signal. Cite the source. Build with integrity.
