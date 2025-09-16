@@ -42,6 +42,13 @@ NLP classifier for misinformation detection. Powered by TruStorE™: Truth over 
 
 ---
 
+
+📦 Dependencies: See `requirements.txt` for install stack
+
+
+---
+
+
 ### 📁 Repo Structure
 
 ```
