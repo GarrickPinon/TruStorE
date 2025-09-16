@@ -69,7 +69,7 @@ TruStorE/
 
 ### ⚙️ How It Works
 
-- **Manipulative Tactic Detector™**  
+- **Truth Over Tone Technology™**  
   Flags tonal asymmetry and sentiment drift using a proprietary blend of heuristics and NLP scoring logic.
 
 - **Word Pair Logic™**  
