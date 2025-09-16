@@ -199,5 +199,7 @@ Commercial use requires attribution and explicit permission.
 ![🛡️ Built with Integrity](https://img.shields.io/badge/Built-With%20Integrity-black)
 ![🧬 Signal Over Fluff](https://img.shields.io/badge/Signal-Over%20Fluff-blue)
 ![🚨 BS Button Created](https://img.shields.io/badge/BS--Button-Certified-red)
+![🦴 Code Chiropractor™](https://img.shields.io/badge/Alignment-Snap%20Certified-blue)
+
 
 ---
